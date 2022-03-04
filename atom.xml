@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://adiaosdu.github.io</id>
+    <title>Diao&apos;s Domain</title>
+    <updated>2022-03-04T11:27:50.751Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://adiaosdu.github.io"/>
+    <link rel="self" href="https://adiaosdu.github.io/atom.xml"/>
+    <logo>https://adiaosdu.github.io/images/avatar.png</logo>
+    <icon>https://adiaosdu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Diao&apos;s Domain</rights>
+    <entry>
+        <title type="html"><![CDATA[汉译英：大学生创业政策、数字表达]]></title>
+        <id>https://adiaosdu.github.io/post/WGL7VPJ5y/</id>
+        <link href="https://adiaosdu.github.io/post/WGL7VPJ5y/">
+        </link>
+        <updated>2022-03-04T10:42:03.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="对创业能力强-创业计划可行性高-诚信度好的大学生创业者或创业团队校方推荐申请大学生创业小额担保贷款和免除担保反担保手续享受创业小额担保贷款及贴息政策">对创业能力强、创业计划可行性高、诚信度好的大学生创业者或创业团队，校方推荐申请大学生创业小额担保贷款和免除担保反担保手续，享受创业小额担保贷款及贴息政策。</h3>
+<ul>
+<li>考虑句子结构不作较大调整，前面把这一堆宾语列出来，后面可以用them代替</li>
+</ul>
+<h3 id="tmp-for-the-college-students-or-teams-with-strong-entrepreneurial-ability-highly-feasible-plans-and-great-honesty-college-recommends-them-to-apply-for-xxx-and-xxx-and-enjoy-xxx-and-xxx">TMP: For the college students or teams with strong entrepreneurial ability, highly feasible plans and great honesty, college recommends them to apply for xxx and xxx and enjoy xxx and xxx.</h3>
+<ul>
+<li>创业能力和创业计划都放entrepreneurial感觉很累赘</li>
+<li>那几个专有名词不太会表达</li>
+<li>校方直接译成college?</li>
+</ul>
+<h3 id="ans-the-school-can-recommend-student-entrepreneurs-or-start-up-teams-with-strong-entrepreneurial-abilities-feasible-plans-and-good-credibility-to-apply-for-micro-loans-exempt-from-guarantee-and-counter-guarantee-procedures-and-with-interest-subsidies">ANS: The school can recommend student entrepreneurs or start-up teams with strong entrepreneurial abilities, feasible plans and good credibility to apply for micro loans exempt from guarantee and counter guarantee procedures and with interest subsidies.</h3>
+<ul>
+<li>其实申请xxx和享受xxx实际上表达的意思没什么区别吧</li>
+</ul>
+<h3 id="全球目前至少有5000万阿尔茨海默病患者到2050年这个数字预计将达到15亿左右">全球目前至少有5000万阿尔茨海默病患者，到2050年，这个数字预计将达到1.5亿左右。</h3>
+<h3 id="tmp-there-are-about-at-least-50-million-alzheimer-patients-today-and-the-number-is-expected-to-come-to-150-million-in-2050">TMP: There are about at least 50 million Alzheimer patients today, and the number is expected to come to 150 million in 2050.</h3>
+<ul>
+<li>全球没翻译出来</li>
+<li>不需要加about</li>
+</ul>
+<h3 id="ans-there-are-at-least-50-million-alzheimer-patients-in-the-world-today-which-is-expected-to-reach-150-million-or-so-in-2050">ANS: There are at least 50 million Alzheimer patients in the world today, which is expected to reach 150 million or so in 2050.</h3>
+<p>####下面的不愿意做了，直接打出来分析一下</p>
+<h3 id="2018年全球治疗及照料费用已达1万亿美元给患者家庭和社会带来沉痛负担">2018年全球治疗及照料费用已达1万亿美元，给患者家庭和社会带来沉痛负担</h3>
+<h3 id="in-2018-over-a-trillion-dollars-were-spent-on-curing-and-tending-alzheimer-patients-putting-a-heavy-burden-on-their-families-and-the-society">In 2018, over a trillion dollars were spent on curing and tending Alzheimer patients, putting a heavy burden on their families and the society.</h3>
+<ul>
+<li>描述花费的时候可以考虑一下这种表达，多少钱被花在了什么地方</li>
+<li>花这些钱造成了什么后果，就可以用doing</li>
+</ul>
+<h3 id="我国阿尔茨海默病患者约1000万人随着人口老龄化加速预计到2050年我国患者将达4000万人">我国阿尔茨海默病患者约1000万人，随着人口老龄化加速，预计到2050年我国患者将达4000万人。</h3>
+<h3 id="there-are-about-10-million-alzheimer-patients-in-china-which-is-predicted-to-hit-40-million-in-2050-given-the-accelerated-aging-of-population">There are about 10 million Alzheimer patients in China, which is predicted to hit 40 million in 2050 given the accelerated aging of population.</h3>
+<ul>
+<li>predict和expect属于是同义替换，预计</li>
+<li>hit和reach也是</li>
+<li>随着一般译为with或者as，这里译为given是考虑到的意思</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leetcode 55 跳跃游戏]]></title>
+        <id>https://adiaosdu.github.io/post/hzT9GjMYE/</id>
+        <link href="https://adiaosdu.github.io/post/hzT9GjMYE/">
+        </link>
+        <updated>2022-03-04T10:16:48.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>题给出一个一维数组，记录当前位置能往前跳多少，最后返回结果，能否到达最后一格。</li>
+<li>属于存在型问题。因此要开一个布尔型数组，这个数组记录的是能否到达这一格。</li>
+<li>状态转移方程：对每一块石头遍历前面所有石头，有一块能跳到它，则置为1</li>
+<li>初始条件：第一块石头能跳</li>
+</ul>
+<p>'''python<br>
+def canJump(self, nums: List[int]) -&gt; bool:<br>
+dp = [True] + [False]*(len(nums)-1)<br>
+for i in range(len(nums)):<br>
+for j in range(i):<br>
+if dp[j] and j+nums[j]&gt;=i:<br>
+dp[i] = True<br>
+continue<br>
+return dp[-1]</p>
+<pre><code>
+- 贪心法：只遍历一遍数组，实时维护当前能跳的最远距离。
+
+```python
+def canJump(self, nums: List[int]) -&gt; bool:
+    f = 0
+    for i,j in enumerate(nums):
+        f = max(f,i+j)
+        if i!=len(nums)-1 and f-i==0:
+            return False
+    return True
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leetcode 300 最长递增子序列]]></title>
+        <id>https://adiaosdu.github.io/post/WOmyzGTVa/</id>
+        <link href="https://adiaosdu.github.io/post/WOmyzGTVa/">
+        </link>
+        <updated>2022-03-04T10:03:48.000Z</updated>
+        <content type="html"><![CDATA[<p>给定一个数列，长度为 N，求这个数列的最长上升（递增）子数列（LIS）的长度<br>
+注意子序列不一定是连续的</p>
+<p><img src="https://adiaosdu.github.io/post-images/1646217872725.png" alt="" loading="lazy"><br>
+遍历num,对于num[i]，找它前面比它小的每个j，找f[j]最大的一个，取f[j]+1作为最终的f[i]。为此需要额外进行一次内部的循环。<br>
+子问题是求以当前位置结尾的数列的最长递增子序列长度<br>
+这道题属于比较简单的dp。重点掌握一下&quot;每一轮取当前更大&quot;的这种处理手法</p>
+<pre><code class="language-python">def lengthOfLIS(self, nums: List[int]) -&gt; int:
+    if len(nums)&lt;2:
+        return 1
+    f = [1]*len(nums)
+    for i in range(0,len(nums)):
+        for j in range(0,i):
+            if nums[i]&gt;nums[j]: #相等不要
+                f[i] = max(f[j]+1,f[i])
+    # print(f)
+    # 最终要找的不是以最后一个元素结尾的
+    # 因此是输出数组中最大的
+    return max(f)
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leetcode 322 零钱兑换]]></title>
+        <id>https://adiaosdu.github.io/post/-XjQZM9eZ/</id>
+        <link href="https://adiaosdu.github.io/post/-XjQZM9eZ/">
+        </link>
+        <updated>2022-03-04T09:59:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一道经典的动态规划的题目。<br>
+有三种硬币2,5,7,每种足够多，买一本书27元如何用最少的硬币组合正好付清。</p>
+<ul>
+<li>贪心：先凑7，再凑5，再凑2.可能局部最优。例如27 = 7+7+7+2+2+2 = 7+5+5+5+5<br>
+<img src="https://adiaosdu.github.io/post-images/1646213412268.png" alt="" loading="lazy"></li>
+<li>递归解法：大量的重复计算，没有保存历史记录。开数组保存历史纪录可以解决这个问题。</li>
+<li>动态规划的四个步骤：</li>
+<li>确定状态：开一个数组，确定数组的每个元素代表什么。
+<ul>
+<li>最后一步：最优策略肯定是k枚硬币加起来。最后一枚硬币是a_k，前面的27-a_k。我们不关心前面的27-a_k是怎么得到的</li>
+<li>子问题：拼出前面的27-a_k的硬币数一定要最少。研究用多少枚硬币可以拼出27-a_k</li>
+</ul>
+</li>
+<li>转移方程：f(27) = min{f(27-2)+1, f(27-5)+1, f(27-7)+1}</li>
+<li>初始条件和边界情况：x-2,x-5,x-7小于0怎么办？什么时候停下来
+<ul>
+<li>不能拼出时，定义为正无穷(复数的情况)</li>
+<li>初始条件f(0)=0,0是有意义的</li>
+</ul>
+</li>
+<li>计算顺序，应该保证计算左边的时候，右边都已经算过了，所以应该从小到大算。</li>
+<li>没有重复计算，算法时间复杂度O(mn)</li>
+</ul>
+<pre><code class="language-python">def coin_change(coins, amount):
+  f = [float(&quot;inf&quot;)]*(amount+1) #第一个细节，数组要开大一个，第0个元素是边界情况，最后一个元素是最终情况
+                  #还要知道python里面的无穷大怎么表示
+  f[0] = 0 #第二个细节：边界条件初始化
+  for i in range(1,amount+1): #注意循环是进行amount次
+    for j in coins:
+      #第三个细节：什么时候才能用组合 
+      #确定第i个位置：看这个钱数减掉每一种硬币情况的子问题
+      #在子问题存在且不为无穷的情况下，由子问题组成原始问题
+      if i-j&gt;=0 and f[i-j]!=float(&quot;inf&quot;):
+        f[i] = min(f[i-j]+1,f[i])
+    print(f)
+  return f[amount]
+
+print(coin_change(l,A))
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向量空间]]></title>
+        <id>https://adiaosdu.github.io/post/tOKkv-KuP/</id>
+        <link href="https://adiaosdu.github.io/post/tOKkv-KuP/">
+        </link>
+        <updated>2022-03-04T08:01:17.000Z</updated>
+        <content type="html"><![CDATA[<p>向量空间必须满足一定规则：该空间对空间内向量的线性组合（相加，数乘）封闭。也就是说如果一个向量集合所组成的空间满足两种操作（数乘、相加）且通过这两种操作及他们之间的线性组合后的向量仍然在这个集合所形成的空间中。那么我们就称它为向量空间。</p>
+<h3 id="子空间subspace">子空间（subspace）</h3>
+<ul>
+<li>对于子空间，一个很好的解释属于向量空间的一部分，但是它同样满足向量空间的规则，也是一个向量空间。</li>
+<li>三维空间的子空间可以有以下几种情况
+<ul>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>R</mi><mn>3</mn></msup></mrow><annotation encoding="application/x-tex">R^3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>本身</li>
+<li>任何一个过原点的平面</li>
+<li>任何一条过原点的直线</li>
+<li>零向量</li>
+</ul>
+</li>
+<li>向量空间中一定要包含零向量，即原点</li>
+</ul>
+<h3 id="列空间-零空间">列空间、零空间</h3>
+<ul>
+<li>列空间是由一个矩阵的列向量所构造的子空间</li>
+<li>矩阵A的零空间为Ax = 0的所有的解所构成的向量空间，记为N(A)。也就是说A的零空间就是所有满足方程等式的x组成的向量空间。</li>
+<li>对于m*n的矩阵来说，列空间是m维空间的子空间，零空间是n维空间的子空间，列空间的关键在于列向量的维数，零空间的的关键在于列空间的个数。</li>
+<li>根据零空间的定义，可以推出其对加法封闭，对数乘封闭</li>
+</ul>
+<h3 id="基">基</h3>
+<ul>
+<li>一组线性无关的向量，生成某个空间。这组向量称为该空间的基</li>
+<li>n维空间的基：n个线性无关的n维向量</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://adiaosdu.github.io/post-images/1646382561298.png" alt="" loading="lazy"></figure>
+<h3 id="正交">正交</h3>
+<ul>
+<li>向量正交：两个向量内积为0</li>
+<li>空间正交：假如空间 S 与空间 T 正交，则意味着S中的每一个向量都与T中的每一个向量正交</li>
+<li>比如说两条垂直的直线，或者一条直线垂直于另一个平面</li>
+<li>一个平面上的子空间有三种：整个平面 D、过原点且垂直于该平面的直线 L、原点 O</li>
+</ul>
+<h3 id="四个子空间及其关系">四个子空间及其关系</h3>
+<ul>
+<li>行空间是一个矩阵各行生成的空间</li>
+<li>行空间与零空间正交</li>
+<li>零空间是Ax=0的解，即 x 若在零空间，则 Ax 为零向量</li>
+<li>对于行空间，由于A的任一行向量与x内积都为0，则零空间中的向量x同A中的所有行向量正交</li>
+<li>同理，列空间与左零空间是正交的</li>
+<li>我们把行空间与零空间称为n维空间里的正交补，即零空间包含了所有与行空间正交的向量，而不是部分</li>
+<li>同理列空间与左零空间为m维空间里的正交补，即左零空间包含了所有与列空间正交的向量。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矩阵]]></title>
+        <id>https://adiaosdu.github.io/post/yV26s1cil/</id>
+        <link href="https://adiaosdu.github.io/post/yV26s1cil/">
+        </link>
+        <updated>2022-03-03T10:06:20.000Z</updated>
+        <content type="html"><![CDATA[<p>本文整理了一些基本的关于矩阵概念性的问题，可供面试参考</p>
+<h3 id="lu分解">LU分解</h3>
+<ul>
+<li>Gauss消元法都是对矩阵A使用行变换得到上三角矩阵U，利用消元矩阵E左乘矩阵A可以达到同样的效果。</li>
+<li>回想高斯消元法的过程，总是用上面的行消下面的。所以E是一个下三角矩阵（右上角为0）</li>
+<li>EA=U，其中E是可逆的。令<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>L</mi><mo>=</mo><msup><mi>E</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><annotation encoding="application/x-tex">L=E^{-1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">L</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span>，则L也是下三角矩阵。A=LU</li>
+</ul>
+<h3 id="置换阵">置换阵</h3>
+<ul>
+<li>置换矩阵的每一行和每一列都恰好有一个 1，其余的元素都是 0</li>
+<li>n 阶矩阵有 n! 个置换矩阵，就是将单位矩阵 I 各行重新排列后所有可能的情况数量</li>
+<li>置换矩阵乘以一个矩阵，可以完成矩阵的行交换。对于更普适的LU分解式，需要考虑行交换的情况，即：PA=LU。先用行交换使得主元位置不为0，行顺序正确。其后再用LU分解</li>
+</ul>
+<h3 id="特殊矩阵ata">特殊矩阵<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>A</mi><mi>T</mi></msup><mi>A</mi></mrow><annotation encoding="application/x-tex">A^TA</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mord mathdefault">A</span></span></span></span></h3>
+<figure data-type="image" tabindex="1"><img src="https://adiaosdu.github.io/post-images/1646387694682.png" alt="" loading="lazy"></figure>
+<h3 id="矩阵的秩">矩阵的秩</h3>
+<ul>
+<li>行秩：矩阵的行空间的维数</li>
+<li>矩阵的行秩等于列秩，统称为秩</li>
+<li>从线性方程组的角度，主元的个数称为矩阵的秩
+<ul>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>r</mi><mo>(</mo><mi>A</mi><mo>+</mo><mi>B</mi><mo>)</mo><mo>≤</mo><mi>r</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>+</mo><mi>r</mi><mo>(</mo><mi>B</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">r(A+B) \leq r(A)+r(B)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span></span></span></span></li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>r</mi><mo>(</mo><mi>A</mi><mi>B</mi><mo>)</mo><mo>≤</mo><mi>m</mi><mi>i</mi><mi>n</mi><mo>{</mo><mi>r</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo separator="true">,</mo><mi>r</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>}</mo></mrow><annotation encoding="application/x-tex">r(AB) \leq min\{r(A),r(B)\}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mopen">{</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mclose">)</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mclose">}</span></span></span></span></li>
+<li>一个矩阵与可逆矩阵相乘后，秩不会改变</li>
+<li>若AB=O，则r(A)+r(B) \leq n，即B的列向量的秩不大于Ax=0的基础解系的个数</li>
+<li>相似矩阵线性变换秩相等</li>
+</ul>
+</li>
+</ul>
+<h3 id="可逆矩阵基本定理">可逆矩阵基本定理</h3>
+<p>一个方阵是可逆阵，和以下几条是等价的<br>
+- 行列式非0<br>
+- 无0特征值<br>
+- 满秩<br>
+- 各行(列)线性无关<br>
+- 能表示成一系列初等矩阵乘积<br>
+- 等价于单位阵</p>
+<h3 id="伴随矩阵">伴随矩阵</h3>
+<pre><code>- 定义：一个由代数余子式组成的矩阵，其中代数余子式的位置和其对应的元素的位置关于主对角线对称
+- 特例：二阶矩阵求伴随矩阵：主对角交换，副对角变号不交换
+- 最重要的公式：$AA^* = |A|E$
+- 伴随矩阵的秩
+    - n，如果原矩阵满秩
+    - 1，如果原矩阵秩为n-1
+    - 0，如果原矩阵秩小于n-1, 此时伴随矩阵为零矩阵
+</code></pre>
+<h3 id="初等矩阵">初等矩阵</h3>
+<pre><code>- 初等变换、等价
+- 左乘初等矩阵对行变换，右乘初等矩阵对列变换
+- 初等矩阵的逆
+</code></pre>
+<h3 id="正交矩阵">正交矩阵</h3>
+<ul>
+<li>满足以下性质
+<ul>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>A</mi><mi>T</mi></msup><mo>=</mo><msup><mi>A</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><annotation encoding="application/x-tex">A^T = A^{-1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><msup><mi>A</mi><mi>T</mi></msup><mo>=</mo><mi>E</mi></mrow><annotation encoding="application/x-tex">AA^T=E</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span></span></span></span></li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">∣</mi><mi>A</mi><msup><mi mathvariant="normal">∣</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">|A|^2=1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord mathdefault">A</span><span class="mord"><span class="mord">∣</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span></li>
+</ul>
+</li>
+<li>欧几里得空间：将现实生活中的二维、三维空间推广到更高维。我们首先引入了欧氏空间中的内积，根据内积，可以定义距离、夹角等。</li>
+</ul>
+<h3 id="线性映射">线性映射</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线性方程组的解]]></title>
+        <id>https://adiaosdu.github.io/post/b_CZYNt6C/</id>
+        <link href="https://adiaosdu.github.io/post/b_CZYNt6C/">
+        </link>
+        <updated>2022-03-03T10:03:20.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="向量的组合运算">向量的组合运算</h3>
+<ul>
+<li>线性组合：n个向量的线性组合就是这n个向量各自乘上一定的系数再求和。</li>
+<li>线性表出：一组向量的线性组合等于一个向量。看一个向量能否由一组向量线性表出，本质上还是看线性方程组的解的情况。</li>
+</ul>
+<h3 id="向量组">向量组</h3>
+<ul>
+<li>n个向量线性相关与线性无关：看这n个向量线性组合得到零向量的系数。若只有零系数则线性无关，否则线性相关。</li>
+<li>向量空间的角度：如果 A 各列向量构成的向量组是线性无关的，那么矩阵 A 的零空间中只有零向量。否则，那么矩阵 A 零空间中除零向量之外还一定有其他向量。</li>
+<li>从秩的角度看：线性无关对应向量组构成的矩阵，秩为 n，此时没有自由变量，零空间中只有零向量存在。线性相关对应向量组构成的矩阵，秩小于 n，有 n-r 个自由变量，零空间 中有很多向量。</li>
+</ul>
+<h3 id="齐次线性方程组ax0的解讨论">齐次线性方程组Ax=0的解讨论</h3>
+<ul>
+<li>求解方法：高斯消元法找到自由变量，给自由变量赋值得到一组特解</li>
+<li>n个自由变量需要进行n次赋值，得到n组特解</li>
+<li>齐次线性方程组的通解是这n组特解的线性组合，该线性组合可以覆盖到整个零空间</li>
+</ul>
+<h3 id="mn矩阵a的秩与axb解的关系">m*n矩阵A的秩与Ax=b解的关系</h3>
+<ul>
+<li>Ax相当于对A的列向量进行线性组合，即研究A的列空间
+<ul>
+<li>A列满秩，有冗余的方程：从列空间的角度，m&gt;n，n个m维向量无法铺满整个m维空间，具体能铺多少要看它们极大无关组的维度。若有解则唯一，此时b在A的列空间中；否则无解</li>
+<li>A行满秩，有自由变量：有无穷多解</li>
+<li>A为满秩方阵：有唯一解</li>
+<li>A不满秩：无解（方程组本身存在矛盾）或有无穷多解</li>
+</ul>
+</li>
+<li><img src="https://adiaosdu.github.io/post-images/1646379562623.png" alt="" loading="lazy"></li>
+<li>Ax=b的解集不一定构成向量空间。因此非齐次线性方程组的两个特解线性组合，得到的不一定是解</li>
+</ul>
+<h3 id=""></h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行列式]]></title>
+        <id>https://adiaosdu.github.io/post/ZFmY0G3tN/</id>
+        <link href="https://adiaosdu.github.io/post/ZFmY0G3tN/">
+        </link>
+        <updated>2022-03-03T10:01:27.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="n元排列">n元排列</h3>
+<h3 id="行列式的定义">行列式的定义</h3>
+<h3 id="克莱姆法则">克莱姆法则</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线性代数栏目说明]]></title>
+        <id>https://adiaosdu.github.io/post/hFhtUg9WX/</id>
+        <link href="https://adiaosdu.github.io/post/hFhtUg9WX/">
+        </link>
+        <updated>2022-03-03T09:23:19.000Z</updated>
+        <content type="html"><![CDATA[<p>不得不承认，尽管自己选择了一个极度需要数学知识的专业，但是自己并不是一个非常擅长数学的人。在第一遍学习数学基础的时候，很多知识都没学懂。正式开始学应该是考研备考的一年，尽管说大部分概念弄明白了，但是学得还不够透彻。</p>
+<p>相对来说，线性代数应该是自己考研期间学得比较好的一门课程了。同样毫无疑问，这门课程也是非常重要的。现在开辟这个栏目并不是想把线性代数中的各种概念整理一遍，而是想从线性变换、线性空间等角度对线性代数产生新的理解。这些内容超出了考研的范畴，但或许有助于理解得更加深刻。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习的基本概念]]></title>
+        <id>https://adiaosdu.github.io/post/hcusZred-/</id>
+        <link href="https://adiaosdu.github.io/post/hcusZred-/">
+        </link>
+        <updated>2022-03-03T07:35:49.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="常见的机器学习任务t">常见的机器学习任务T</h2>
+<h3 id="分类和回归">分类和回归</h3>
+<ul>
+<li>如果机器学习模型的输出是离散值（discrete values），例如布尔值，那么我们将其称为分类模型。如果输出是连续值（continuous values），那么我们将其称为回归模型。</li>
+<li>回归问题转化为分类问题：用范围来代替预计的值，可以得到更加健壮的模型。</li>
+<li>分类问题转化为回归问题：预测得到每一类的概率。例如逻辑回归将概率值作为输出用于分类。</li>
+</ul>
+<h3 id="输入缺失">输入缺失</h3>
+<ul>
+<li>当一些输入可能丢失时，学习算法必须学习一组函数，而不是单个分类函数。每个函数对应着分类具有不同缺失输入子集的x</li>
+<li>学习所有相关变量的概率分布，然后通过边缘化缺失变量来解决分类任务。</li>
+<li>使用n个输入变量，我们现在可以获得每个可能的缺失输入集合所需的所有<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mn>2</mn><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">2^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">n</span></span></span></span></span></span></span></span></span></span></span>个不同的分类函数。最终综合各变量的分布，得到一个描述联合概率分布的函数。</li>
+</ul>
+<h3 id="转录">转录</h3>
+<p>机器学习系统观测一些相对非结构化表示的数据，并转录信息为离散的文本形式。</p>
+<h3 id="机器翻译">机器翻译</h3>
+<p>在机器翻译任务中，输入是一种语言的符号序列，计算机程序必须将其转化成另一种语言的符号序列。</p>
+<h3 id="结构化输出">结构化输出</h3>
+<ul>
+<li>结构化输出任务的输出是向量或者其他包含多个值的数据结构，并且构成输出的这些不同元素间具有重要关系。</li>
+<li>例如语法分析：将自然语句映射到语法结构树。即对句子成分进行分析。</li>
+<li>图像的像素级分割，将每一个像素分配到特定类别。</li>
+</ul>
+<h3 id="异常检测">异常检测</h3>
+<ul>
+<li>属于分类的一种，筛选出不正常或非典型的个体</li>
+</ul>
+<h3 id="合成和采样">合成和采样</h3>
+<ul>
+<li>生成一些和训练数据相似的新样本。</li>
+<li>例如游戏中自动生成某种材质的纹理、给出一段文字，生成其对应的语音波形</li>
+<li>结构化输出，但是每个输入不一定只有一个正确的输出</li>
+</ul>
+<h2 id="性能度量p">性能度量P</h2>
+<ul>
+<li>准确率：该模型输出正确结果的样本比率。常用在分类任务</li>
+<li>通常使用训练集训练模型，使用验证集调参，使用测试集度量模型性能</li>
+<li>实际应用中，性能的度量指标往往取决于具体情况</li>
+</ul>
+<h2 id="经验e">经验E</h2>
+<ul>
+<li>机器学习算法可以理解成在数据集上获取经验</li>
+<li>无监督：学习数据集的一些有用的性质（概率分布、合成、去噪、聚类等）</li>
+<li>有监督：学习样本和label之间的关系，以期在单纯的样本数据上得到label</li>
+<li>强化学习：和环境进行交互，学习系统和它的训练过程会有反馈回路</li>
+</ul>
+<h2 id="模型的表现">模型的表现</h2>
+<ul>
+<li>泛化能力强，即在先前为观测到的新输入上表现良好</li>
+<li>在训练集上的误差称为训练误差，测试集上的称为泛化误差。我们希望泛化误差尽可能低</li>
+<li>假设训练集和测试集的各个样本都是独立同分布的，对于给定模型，训练集误差应该等于测试集误差</li>
+<li>实际训练过程是要调参的，调参后会降低模型在训练集上的误差。最终测试误差期望会大于或等于训练误差期望。</li>
+</ul>
+<h3 id="衡量因素">衡量因素</h3>
+<ul>
+<li>降低训练误差：会造成过拟合</li>
+<li>缩小训练误差和测试误差的差距：会造成欠拟合</li>
+</ul>
+<h3 id="容量模型的复杂度">容量（模型的复杂度）</h3>
+<ul>
+<li>模型的容量是指其拟合各种函数的能力。容量低的模型可能很难拟合训练集。容量高的模型可能会过拟合，因为记住了不适用于测试集的训练集性质。</li>
+<li>一种控制训练算法容量的方法是选择 假设空间（hypothesis space），即学习算法可以选择为解决方案的函数集。例如，线性回归算法将关于其输入的所有线性函数作为假设空间。广义线性回归的假设空间包括多项式函数，这样做就增加了模型的容量。</li>
+<li>奥卡姆剃刀准则：在同样能够解释已知观测现象的假设中，尽可能选择简单的那个。（能用简单的原理解释就不要搞太复杂）</li>
+<li>VC维，度量二元分类器的容量。VC维定义为该分类器能够分类的训练样本的最大数目。假设存在 m 个<br>
+不同 x 点的训练集，分类器可以任意地标记该 m 个不同的 x 点，VC维被定义为 m的最大可能值。</li>
+<li>量化模型的容量使得统计学习理论可以进行量化预测。统计学习理论中最重要的结论阐述了训练误差和泛化误差之间差异的上界随着模型容量增长而增长，但随着训练样本增多而下降。</li>
+<li>虽然更简单的函数更可能泛化（训练误差和测试误差的差距小），但我们仍然需要选择一个充分复杂的假设以达到低的训练误差。通常，当模型容量上升时，训练误差会下降，直到其渐近最小可能误差（假设误差度量有最小值）。通常，泛化误差是一个关于模型容量的 U 形曲线函数。<br>
+<img src="https://adiaosdu.github.io/post-images/1646297708148.png" alt="" loading="lazy"><br>
+图片解释：在图的左端，训练误差和泛化误差都非常高。这是 欠拟合机制（underfitting regime）。当我们增加容量时，训练误差减小，但是训练误差和泛化误差之间的间距却不断扩大。最终，这个间距的大小超过了训练误差的下降，我们进入到了 过拟合机制（overfitting regime），其中容量过大，超过了 最佳容量（optimal capacity）。</li>
+<li>贝叶斯误差：理想模型假设我们能够预先知道生成数据的真实概率分布。然而这样的模型仍然会在很多问题上发生一些错误,因为分布中仍然会有一些噪扰。在监督学习中,从x 到 y 的映射可能内在是随机的,或者 y 可能是包括 x 在内还有其他变量的确定性函数。从预先知道的真实分布 p(x,y) 预测而出现的误差被称为贝叶斯误差 (Bayes error)。<br>
+<img src="https://adiaosdu.github.io/post-images/1646298238734.png" alt="" loading="lazy"></li>
+<li>泛化误差的期望从不会因训练样本数目的增加而增加。对于非参数模型而言，更多的数据会得到更好的泛化能力，直到达到最佳可能的泛化误差（也就是系统固定存在的贝叶斯误差）。</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
