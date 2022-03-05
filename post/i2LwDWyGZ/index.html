@@ -8,7 +8,7 @@
 <meta name="keywords" content="Gridea静态个人博客">
 <meta name="description" content="">
 <meta name="theme-color" content="#000">
-<title>Leetcode 300 最长递增子序列 | Diao&#39;s Domain</title>
+<title>新的开始 | Diao&#39;s Domain</title>
 <link rel="shortcut icon" href="/favicon.ico?v=1646448938536">
 <link rel="stylesheet" href="/media/css/pisces.css">
 <link rel="stylesheet" href="/media/fonts/font-awesome.css">
@@ -41,8 +41,8 @@
 
 
 
-  <meta name="description" content="Leetcode 300 最长递增子序列" />
-  <meta name="keywords" content="Leetcode" />
+  <meta name="description" content="新的开始" />
+  <meta name="keywords" content="杂感" />
 </head>
 
 <body>
@@ -303,14 +303,14 @@
           <div class="section bg-color post post-page">
             <section class="post-header">
   <h1 class="post-title">
-    <a class="post-title-link" href="https://adiaosdu.github.io/post/WOmyzGTVa/"> Leetcode 300 最长递增子序列 </a>
+    <a class="post-title-link" href="https://adiaosdu.github.io/post/i2LwDWyGZ/"> 新的开始 </a>
   </h1>
   <div class="post-meta">
     
     <span class="meta-item pc-show">
       <i class="fa fa-calendar-o"></i>
       <span class="language" data-lan="publish">发布于</span>
-      <span class="publish-time" data-t="2022-03-04 18:03:48">2022-03-04</span>
+      <span class="publish-time" data-t="2022-03-05 10:10:19">2022-03-05</span>
       <span class="post-meta-divider pc-show">|</span>
     </span>
     
@@ -318,8 +318,8 @@
       <i class="fa fa-folder-o"></i>
       <span class="pc-show language" data-lan="category-in">标签:</span>
        
-      <a href="https://adiaosdu.github.io/tag/XwHiPsMuM/">
-        <span>Leetcode</span>
+      <a href="https://adiaosdu.github.io/tag/pUHjOG-_5/">
+        <span>杂感</span>
       </a>
        
     </span>
@@ -328,7 +328,7 @@
     <span class="meta-item">
       <i class="fa fa-clock-o"></i>
       <span
-        >1<span class="language" data-lan="minute"
+        >5<span class="language" data-lan="minute"
           >分钟</span
         ></span
       >
@@ -337,7 +337,7 @@
       <span class="post-meta-divider">|</span>
       <i class="fa fa-file-word-o"></i>
       <span
-        >234<span class="pc-show language" data-lan="words"
+        >1355<span class="pc-show language" data-lan="words"
           >字数</span
         ></span
       >
@@ -347,25 +347,17 @@
 </section>
 
             <div class="post-body next-md-body" id="post_body">
-              <p>给定一个数列，长度为 N，求这个数列的最长上升（递增）子数列（LIS）的长度<br>
-注意子序列不一定是连续的</p>
-<p><img src="https://adiaosdu.github.io/post-images/1646217872725.png" alt="" loading="lazy"><br>
-遍历num,对于num[i]，找它前面比它小的每个j，找f[j]最大的一个，取f[j]+1作为最终的f[i]。为此需要额外进行一次内部的循环。<br>
-子问题是求以当前位置结尾的数列的最长递增子序列长度<br>
-这道题属于比较简单的dp。重点掌握一下&quot;每一轮取当前更大&quot;的这种处理手法</p>
-<pre><code class="language-python">def lengthOfLIS(self, nums: List[int]) -&gt; int:
-    if len(nums)&lt;2:
-        return 1
-    f = [1]*len(nums)
-    for i in range(0,len(nums)):
-        for j in range(0,i):
-            if nums[i]&gt;nums[j]: #相等不要
-                f[i] = max(f[j]+1,f[i])
-    # print(f)
-    # 最终要找的不是以最后一个元素结尾的
-    # 因此是输出数组中最大的
-    return max(f)
-</code></pre>
+              <p>从22年3月初开了这个博客，或许应该写点什么，却一直写不出来。博客开通之后，每天忙于整理博文提升自己。不得不说，这是准备复试的一种有趣且有效的方式。我也终于肯放下焦虑，转头去踏踏实实地做点事情了。<br>
+博客开创的背景和初衷还是值得一提的。这个想法 大概在很久之前就有了，常常看到别人能有自己的一方天地分享其所得，深觉羡慕。但是那是自己是一个相当拖延，行动力极差的人，总会觉得这件事情太难了，而不敢去做。是考研改变了我。<br>
+我是一个失败的考研人。21年底参加了研究生入学考试，踌躇满志的我一心想要去最好的大学，学习最好的专业。我报考了北京大学的前沿学科交叉研究院，并深深地以此为荣。结果，以十五分的差距，没能进入复试。意料之中的结果，但是在那之后，我迷茫了。<br>
+为什么要迷茫呢？既然选择了最好的，便应有得不到的觉悟和有备选的方案啊。是啊，这些都有，没能在叉院激烈的竞争中拔得头筹，我可以说我尽力了。毕竟自己本科的基础本就不好，毕竟自己选择这条路的首要目的是提高自己的能力，毕竟...那是北大叉院啊。知其不可为而为之，明知希望渺茫却仍想孤注一掷，能说是傻吗？<br>
+或许每个考研失利者都要经历这样一个阶段吧。就像是修仙小说里的渡劫一样，渡过去了便是浴火重生修得更大的修为，渡不过去便是灰飞烟灭一朝跌落神坛。神坛倒还说不上，毕竟大四这个年纪，考研也只是人生前期的一个重要的转折点，甚至自己都还没步入社会。但是现在，每天都能感受到孤独、焦虑和压抑的气息夹杂着黑暗笼罩着自己。九月和十月做决策时考虑到的因素一个个跳脱出来，日日夜夜轮流质问着自己：为什么要放弃保研？为什么不考虑报考软微？为什么要关注别人报名的消息？为什么不能多考虑一下自己的复习进度？为什么不能多刷一些题？为什么考专业课时一遍遍地分神？...<br>
+这些问题没有答案。即使强行给出一个答案，也没有意义了。嗯，或许，当初选择这条路，也不全是为了考研吧。自己有上进心，知道自身的不足之处。想要找到一股动力带动自己前进。这不就是自己想要的答案吗？但是考研本身最终还是失败了。或许，如果调剂不成要二战的话，毕业后脱产的半年，才是你真正向梦想发起冲刺的半年。<br>
+当初那个年少轻狂的少年也不会轻易责怪现在的自己吧，倘若能遇见，或许会说：<br>
+“嘿，事情都已经过去了。目光放长远点，30岁之后，当你工作了三五年，成立了家庭，或者当你在国内或者国外另一所顶尖大学拿到了博士学位，你还会在意这些问题吗？正如现在的你不再想为什么当时高考没有考上北大一样。现在的你和当时的你都尽力了，那一次考试，都达到预期了。这就够了。更重要的，永远是下一次选择。”<br>
+“不妨回头看看，这一年的考研给你带来了多大的改变吧。表面上看，你不再无知懵懂了：看看这一年你学到了多少的知识啊。英语从六级没过，一路刷到了550+；数学、专业课，比起当初连线面积分都不知道的你，如今拿了数学竞赛的奖项，专业知识可以对答如流。更深层次看呢，之前想学一个东西，就放在收藏夹里吃灰了；而现在，你可以一天在图书馆坐十个小时，有足够的行动力去探究自己感兴趣的东西；有强大的学习力，积极主动地想要学习更多。当初的你害怕保研，担心没有足够硬的能力，只能留在本校。而现在的你，已经足够强大去争取这一切。考研的路带给你的只会更多。”<br>
+“经过高考和考研两次洗礼，你应该具有了更强大的心脏了吧。这只是上天开的一个小小的玩笑，勇敢面对人生中的每一次大考吧。今后不要再抱有太多侥幸心理，指望考场上超常发挥了。平时一定要把基本功练扎实啊。”<br>
+在这段近乎空白的时光里，就让这个博客陪着自己，记录点点滴滴的收获、心情、计划。一年后这个域名到期的时候，如果再看到这段话，希望能感谢当初做的一系列选择吧。</p>
 
             </div>
             
@@ -378,7 +370,7 @@
     </li>
     <li class="post-copyright-link">
       <strong class="language" data-lan="link">本文链接：</strong>
-      <a href="https://adiaosdu.github.io/post/WOmyzGTVa/" title="Leetcode 300 最长递增子序列">https://adiaosdu.github.io/post/WOmyzGTVa/</a>
+      <a href="https://adiaosdu.github.io/post/i2LwDWyGZ/" title="新的开始">https://adiaosdu.github.io/post/i2LwDWyGZ/</a>
     </li>
     <li class="post-copyright-license">
       <strong class="language" data-lan="copyright">版权声明： </strong>
@@ -387,21 +379,17 @@
   </ul>
   <div class="tags">
     
-      <a href="https://adiaosdu.github.io/tag/XwHiPsMuM/"># Leetcode</a>
+      <a href="https://adiaosdu.github.io/tag/pUHjOG-_5/"># 杂感</a>
     
   </div>
   <div class="nav">
     <div class="nav-prev">
       
-        <i class="fa fa-chevron-left"></i>
-        <a class="nav-pc-next" title="Leetcode 55 跳跃游戏" href="https://adiaosdu.github.io/post/hzT9GjMYE/">Leetcode 55 跳跃游戏</a class="nav-pc-next">
-        <a class="nav-mobile-prev" title="Leetcode 55 跳跃游戏" href="https://adiaosdu.github.io/post/hzT9GjMYE/">上一篇</a>
-      
     </div>
     <div class="nav-next">
       
-        <a class="nav-pc-next" title="Leetcode 322 零钱兑换" href="https://adiaosdu.github.io/post/-XjQZM9eZ/">Leetcode 322 零钱兑换</a>
-        <a class="nav-mobile-next" title="Leetcode 322 零钱兑换" href="https://adiaosdu.github.io/post/-XjQZM9eZ/">下一篇</a>
+        <a class="nav-pc-next" title="汉译英：大学生创业政策、数字表达" href="https://adiaosdu.github.io/post/WGL7VPJ5y/">汉译英：大学生创业政策、数字表达</a>
+        <a class="nav-mobile-next" title="汉译英：大学生创业政策、数字表达" href="https://adiaosdu.github.io/post/WGL7VPJ5y/">下一篇</a>
         <i class="fa fa-chevron-right"></i>
       
     </div>
