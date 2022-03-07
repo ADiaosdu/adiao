@@ -2,13 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adiaosdu.github.io</id>
     <title>Diao&apos;s Domain</title>
-    <updated>2022-03-05T02:55:43.777Z</updated>
+    <updated>2022-03-07T11:10:16.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adiaosdu.github.io"/>
     <link rel="self" href="https://adiaosdu.github.io/atom.xml"/>
     <logo>https://adiaosdu.github.io/images/avatar.png</logo>
     <icon>https://adiaosdu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Diao&apos;s Domain</rights>
+    <entry>
+        <title type="html"><![CDATA[英译汉：美国的人口老龄化]]></title>
+        <id>https://adiaosdu.github.io/post/Wqi3GJaKX/</id>
+        <link href="https://adiaosdu.github.io/post/Wqi3GJaKX/">
+        </link>
+        <updated>2022-03-07T08:25:26.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="thanks-to-the-baby-boomer-generation-born-in-the-late-1940s-and-1950s-the-number-of-american-senior-citizens-is-growing">Thanks to the baby boomer generation born in the late 1940s and 1950s, the number of American senior citizens is growing.</h3>
+<h3 id="tmp-由于19世纪40和50年代爆发的婴儿潮美国老年居民的数量在不断增加">TMP: 由于<s>19世纪</s>40和50年代爆发的婴儿潮，美国老年居民的数量在不断增加。</h3>
+<ul>
+<li>in the late 1940s 是20世纪40年代末，这里出现了两个错误</li>
+<li>直译是 xx年代出生的婴儿爆发的一代。 不够贴切</li>
+</ul>
+<h3 id="as-the-boomer-population-reaches-age-65-the-senior-population-is-projected-to-reach-837-million-almost-double-the-estimated-number-in-2012-and-approximately-twenty-percent-of-the-total-us-population">As the boomer population reaches age 65, the senior population is projected to reach 83.7 million -- almost double the estimated number in 2012 and approximately twenty percent of the total US population.</h3>
+<h3 id="tmp-随着那一代出生的人到达65岁老年人口将预计到达8370万这几乎是2012年预估数字的两倍相当于全美20的人口">TMP: 随着那一代出生的人<s>到达</s>65岁，老年人口将预计到达8370万，这几乎是2012年预估数字的两倍，相当于全美20%的人口。</h3>
+<ul>
+<li>reach直译为到达不如年满</li>
+</ul>
+<h3 id="this-increasing-elderly-population-has-and-will-necessitate-more-senior-health-care-in-fact-one-market-research-provider-estimates-that-the-global-home-health-care-sector-just-one-part-of-the-overall-industry-should-see-revenues-grow-to-300bn-in-2020-from-180bn-in-2014-a-compound-annual-grouth-rate-of-8">This increasing elderly population has and will necessitate more senior health care. In fact, one market research provider estimates that the global home health care sector, just one part of the overall industry, should see revenues grow to $300Bn in 2020 from $180Bn in 2014 -- a compound annual grouth rate of 8%.</h3>
+<h3 id="tmp-这样增长的老年人口已经并将催生更多的老年医护服务-事实上一家市场调研供应商估计作为总体工业一部分的全球家庭健康护理部门其收入预计从2014年的18亿美元到达2020年的3亿美元年增长率为8">TMP: <sub>这样</sub>增长的老年人口已经并将催生更多的老年医护服务。事实上，<sub>一家市场调研供应商</sub>估计，作为<sub>总体工业</sub>一部分的全球家庭健康护理部门，其收入预计从2014年的<sub>1.8亿</sub>美元，到达2020年的3亿美元————()年增长率为8%。</h3>
+<ul>
+<li>this 可以不译</li>
+<li>一家提供市场调研的部门，比供应商更通顺</li>
+<li>到2020年，全球居家护理收入将从xx到达xx，而这仅仅是老年健康服务行业的一个分支。  overall指代的内容要补充出来</li>
+<li>180Bn，是180*10亿</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英译汉：控制酒精使用政策]]></title>
+        <id>https://adiaosdu.github.io/post/3PFQ9zvQE/</id>
+        <link href="https://adiaosdu.github.io/post/3PFQ9zvQE/">
+        </link>
+        <updated>2022-03-07T08:22:55.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="a-wide-range-of-policies-to-address-harmful-use-of-alcohol-are-available-some-targeting-heavy-drinkers-alone-others-more-broadly-based">A wide range of policies to address harmful use of alcohol are available, some targeting heavy drinkers alone, others more broadly based.</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PageRank原理及应用]]></title>
+        <id>https://adiaosdu.github.io/post/zpu4BAHDY/</id>
+        <link href="https://adiaosdu.github.io/post/zpu4BAHDY/">
+        </link>
+        <updated>2022-03-07T03:28:14.000Z</updated>
+        <content type="html"><![CDATA[<p>PageRank是google提出的将网页进行排序的一种算法</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎光临]]></title>
+        <id>https://adiaosdu.github.io/post/D7V1u_SHV/</id>
+        <link href="https://adiaosdu.github.io/post/D7V1u_SHV/">
+        </link>
+        <updated>2022-03-07T03:26:16.000Z</updated>
+        <content type="html"><![CDATA[<p>这里是我的首页<br>
+【归档】可查看我往期的全部博文<br>
+【标签】可按分类查看以往博文<br>
+【关于我】是一个简单的、非主流的自我介绍<br>
+【搜索】可以按关键词查找以往博文<br>
+随便看看吧<br>
+祝您玩的开心</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[倒排索引原理及应用]]></title>
+        <id>https://adiaosdu.github.io/post/vzwAM5hdj/</id>
+        <link href="https://adiaosdu.github.io/post/vzwAM5hdj/">
+        </link>
+        <updated>2022-03-07T03:24:32.000Z</updated>
+        <content type="html"><![CDATA[<p>倒排索引是信息检索领域常见的一种数据结构</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapReduce算法原理]]></title>
+        <id>https://adiaosdu.github.io/post/fFqJtNGII/</id>
+        <link href="https://adiaosdu.github.io/post/fFqJtNGII/">
+        </link>
+        <updated>2022-03-07T03:23:52.000Z</updated>
+        <content type="html"><![CDATA[<p>MapReduce是大数据分析中的一个常见算法</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音乐影响网络分析]]></title>
+        <id>https://adiaosdu.github.io/post/lYEglvsz4/</id>
+        <link href="https://adiaosdu.github.io/post/lYEglvsz4/">
+        </link>
+        <updated>2022-03-07T03:22:29.000Z</updated>
+        <content type="html"><![CDATA[<p>本项目是2021年数学建模美赛的d题。我在去年同期组队参加了该比赛，并取得了M奖。借助本文将比赛过程中的解题思路、建立模型、分析方式等尽可能一一呈现。希望这次能有不一样的收获。</p>
+<h2 id="问题描述">问题描述</h2>
+<h3 id="问题背景">问题背景</h3>
+<ul>
+<li><em>要求开发一种方法来量化音乐的进化</em>。音乐家在创作音乐时，有很多的影响因素。我们的目标是了解和衡量以前制作的音乐对新音乐和音乐艺术家的影响。</li>
+<li><em>一些艺术家可以列出十几个或更多的对他们产生了影响的其他艺术家</em>。 还有人建议，影响可以用歌曲特征之间的<em>相似程度</em>来衡量，如结构、节奏或歌词。</li>
+<li>音乐有时会发生革命性的变化，提供新的旋律或节奏。包括新的音乐体裁的出现和旧体裁的创新。这可能是由于艺术家的合作努力、老艺术家的影响或社会内部的转变。</li>
+<li>通过考虑歌曲网络及其音乐特征，我们可以开始捕捉音乐艺术家对彼此的影响。也许，我们也可以更好地理解音乐是如何随着时间的推移在社会中演变的。</li>
+</ul>
+<h3 id="数据集">数据集</h3>
+<ol>
+<li>influence_data 代表音乐影响者和追随者，如艺术家自己所报道的，以及行业专家的意见。 这些数据包含了过去90年来5,854名艺术家的影响者和追随者。</li>
+<li>full_music_data 提供了16个可变的条目，包括音乐特征，如舞蹈性、节奏性、响度和旋律，以及98,340首歌曲的artist_name和artist_id。该数据集可以按照艺术家或年份从不同维度进一步探究。</li>
+</ol>
+<h3 id="题目要求">题目要求</h3>
+<ul>
+<li>使用第一个数据集创建衡量音乐影响力的网络。用影响者和追随者之间的边来描述影响关系。
+<ul>
+<li>定义指标描述音乐影响力</li>
+<li>在上述网络中选取子网来解释这个指标</li>
+</ul>
+</li>
+<li>使用第二个数据集定义指标衡量音乐相似度。并解释该标准的合理性：相同流派内的音乐家是否比流派间的音乐家相似度更高？</li>
+<li>描述不同流派的区别、流派如何随着时间的推移而变化？</li>
+<li>根据第二个数据集，判断第一个数据集的有效性。影响者对追随者的影响力究竟如何？不同音乐特征的传播性相同吗？</li>
+<li>在音乐演变的过程中，哪些证据可以表明重大飞跃？那些艺术家影响深远？</li>
+<li>分析一个流派随时间的发展过程，找出揭示动态影响的指标，并加以解释</li>
+<li>如何考虑外界因素（政治、经济、文化等）的影响？包括外界对音乐的影响和音乐对外界的影响。</li>
+</ul>
+<h2 id="音乐影响网络与音乐影响力">音乐影响网络与音乐影响力</h2>
+<p>根据数据集1提供的音乐家列表及追随关系，很容易可以绘制出相应的有向图。<br>
+<img src="https://adiaosdu.github.io/post-images/1646640263192.png" alt="" loading="lazy"><br>
+图中有两组离群的追随关系。这两组关系导致了图是不连通的。我们不考虑这两组关系，仅对图的主体部分研究。主体部分是连通的，但是不一定强连通。<br>
+从数据集中可以提取出最具影响力的五位音乐家。<br>
+<img src="https://adiaosdu.github.io/post-images/1646640411972.png" alt="" loading="lazy"></p>
+<h2 id="音乐相似性定义指标">音乐相似性定义指标</h2>
+<p>指标体系大致如下<br>
+<img src="https://adiaosdu.github.io/post-images/1646640296557.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汉译英：张桂梅的感人事迹]]></title>
+        <id>https://adiaosdu.github.io/post/dckLs9wqi/</id>
+        <link href="https://adiaosdu.github.io/post/dckLs9wqi/">
+        </link>
+        <updated>2022-03-07T02:28:50.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="她叫张桂梅丽江华坪女子高中党支部书记-校长华坪县儿童福利院院长-熟悉她的人都知道她一没家庭二没财产还没有健康-凭着共产党人的信念和忠诚她把1600多名女孩子送入大学改变命运这背后是她作为校长超人般的意志和付出">她叫张桂梅，丽江华坪女子高中党支部书记、校长，华坪县儿童福利院院长。熟悉她的人都知道，她一没家庭，二没财产，还没有健康。凭着共产党人的信念和忠诚，她把1600多名女孩子送入大学改变命运，这背后是她作为校长“超人”般的意志和付出。</h3>
+<h3 id="tmp-she-is-zhang-guimei-the-secretary-and-headteacher-of-lijiang-huaping-female-senior-high-as-well-as-the-master-of-the-children-charity-house-of-huaping-district-everyone-who-is-familiar-with-her-knows-she-has-no-family-property-and-even-health-with-a-communists-faith-and-loyalty-she-helped-more-than-1600-girls-to-go-to-college-to-change-their-destiny-behind-which-is-her-will-and-dedication-like-a-superman">TMP: She is Zhang Guimei, <s>the secretary</s> and headteacher of Lijiang Huaping <s>female senior high</s>, as well as the <s>master</s> of the children charity house of Huaping <s>district</s>. Everyone who is familiar with her knows, she has no family, property and even health. With a communist's faith and loyalty, she <s>helped</s> more than 1600 girls to go to college to change their destiny, behind which is her() will and dedication like a superman.</h3>
+<ul>
+<li>党支部书记 Party branch secretary</li>
+<li>丽江华坪女子高中 自己造的专有名词也要全部首字母大写</li>
+<li>校长也可以是principal</li>
+<li>院长可以译为director</li>
+<li>华坪县儿童福利院Huaping County Children's Welfare Institute</li>
+<li>县用county不要用district</li>
+<li>最后一句用现在完成时，送1600名女孩子上学是过去的动作</li>
+<li>是她作为校长is this principal's</li>
+</ul>
+<h3 id="张桂梅说女高不是普通的学校是党委-政府和山区贫困群众的桥梁">张桂梅说，女高不是普通的学校，是党委、政府和山区贫困群众的桥梁</h3>
+<h3 id="ans-zhang-guimei-says-the-girls-senior-high-is-not-just-any-school-but-a-bridge-between-the-party-committee-government-and-the-people-in-need-in-the-mountain-areas">ANS: Zhang Guimei says, &quot;The girls' senior high is not just any school, but a bridge between the Party committee, government and the people in need in the mountain areas.</h3>
+<ul>
+<li>people in need可以用来表示贫困群众，感觉很地道</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2. 线性动态规划——单串问题]]></title>
+        <id>https://adiaosdu.github.io/post/S-6G_99_4/</id>
+        <link href="https://adiaosdu.github.io/post/S-6G_99_4/">
+        </link>
+        <updated>2022-03-07T02:18:53.000Z</updated>
+        <content type="html"><![CDATA[<p>线性动态规划的主要特点是状态的推导是按照问题规模 i 从小到大依次推过去的，较大规模的问题的解依赖较小规模的问题的解。</p>
+<p>这里问题规模为 i 的含义是考虑前 i 个元素 [0..i] 时问题的解。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的开始]]></title>
         <id>https://adiaosdu.github.io/post/i2LwDWyGZ/</id>
@@ -26,342 +185,6 @@
 “不妨回头看看，这一年的考研给你带来了多大的改变吧。表面上看，你不再无知懵懂了：看看这一年你学到了多少的知识啊。英语从六级没过，一路刷到了550+；数学、专业课，比起当初连线面积分都不知道的你，如今拿了数学竞赛的奖项，专业知识可以对答如流。更深层次看呢，之前想学一个东西，就放在收藏夹里吃灰了；而现在，你可以一天在图书馆坐十个小时，有足够的行动力去探究自己感兴趣的东西；有强大的学习力，积极主动地想要学习更多。当初的你害怕保研，担心没有足够硬的能力，只能留在本校。而现在的你，已经足够强大去争取这一切。考研的路带给你的只会更多。”<br>
 “经过高考和考研两次洗礼，你应该具有了更强大的心脏了吧。这只是上天开的一个小小的玩笑，勇敢面对人生中的每一次大考吧。今后不要再抱有太多侥幸心理，指望考场上超常发挥了。平时一定要把基本功练扎实啊。”<br>
 在这段近乎空白的时光里，就让这个博客陪着自己，记录点点滴滴的收获、心情、计划。一年后这个域名到期的时候，如果再看到这段话，希望能感谢当初做的一系列选择吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汉译英：大学生创业政策、数字表达]]></title>
-        <id>https://adiaosdu.github.io/post/WGL7VPJ5y/</id>
-        <link href="https://adiaosdu.github.io/post/WGL7VPJ5y/">
-        </link>
-        <updated>2022-03-04T10:42:03.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="对创业能力强-创业计划可行性高-诚信度好的大学生创业者或创业团队校方推荐申请大学生创业小额担保贷款和免除担保反担保手续享受创业小额担保贷款及贴息政策">对创业能力强、创业计划可行性高、诚信度好的大学生创业者或创业团队，校方推荐申请大学生创业小额担保贷款和免除担保反担保手续，享受创业小额担保贷款及贴息政策。</h3>
-<ul>
-<li>考虑句子结构不作较大调整，前面把这一堆宾语列出来，后面可以用them代替</li>
-</ul>
-<h3 id="tmp-for-the-college-students-or-teams-with-strong-entrepreneurial-ability-highly-feasible-plans-and-great-honesty-college-recommends-them-to-apply-for-xxx-and-xxx-and-enjoy-xxx-and-xxx">TMP: For the college students or teams with strong entrepreneurial ability, highly feasible plans and great honesty, college recommends them to apply for xxx and xxx and enjoy xxx and xxx.</h3>
-<ul>
-<li>创业能力和创业计划都放entrepreneurial感觉很累赘</li>
-<li>那几个专有名词不太会表达</li>
-<li>校方直接译成college?</li>
-</ul>
-<h3 id="ans-the-school-can-recommend-student-entrepreneurs-or-start-up-teams-with-strong-entrepreneurial-abilities-feasible-plans-and-good-credibility-to-apply-for-micro-loans-exempt-from-guarantee-and-counter-guarantee-procedures-and-with-interest-subsidies">ANS: The school can recommend student entrepreneurs or start-up teams with strong entrepreneurial abilities, feasible plans and good credibility to apply for micro loans exempt from guarantee and counter guarantee procedures and with interest subsidies.</h3>
-<ul>
-<li>其实申请xxx和享受xxx实际上表达的意思没什么区别吧</li>
-</ul>
-<h3 id="全球目前至少有5000万阿尔茨海默病患者到2050年这个数字预计将达到15亿左右">全球目前至少有5000万阿尔茨海默病患者，到2050年，这个数字预计将达到1.5亿左右。</h3>
-<h3 id="tmp-there-are-about-at-least-50-million-alzheimer-patients-today-and-the-number-is-expected-to-come-to-150-million-in-2050">TMP: There are about at least 50 million Alzheimer patients today, and the number is expected to come to 150 million in 2050.</h3>
-<ul>
-<li>全球没翻译出来</li>
-<li>不需要加about</li>
-</ul>
-<h3 id="ans-there-are-at-least-50-million-alzheimer-patients-in-the-world-today-which-is-expected-to-reach-150-million-or-so-in-2050">ANS: There are at least 50 million Alzheimer patients in the world today, which is expected to reach 150 million or so in 2050.</h3>
-<p>####下面的不愿意做了，直接打出来分析一下</p>
-<h3 id="2018年全球治疗及照料费用已达1万亿美元给患者家庭和社会带来沉痛负担">2018年全球治疗及照料费用已达1万亿美元，给患者家庭和社会带来沉痛负担</h3>
-<h3 id="in-2018-over-a-trillion-dollars-were-spent-on-curing-and-tending-alzheimer-patients-putting-a-heavy-burden-on-their-families-and-the-society">In 2018, over a trillion dollars were spent on curing and tending Alzheimer patients, putting a heavy burden on their families and the society.</h3>
-<ul>
-<li>描述花费的时候可以考虑一下这种表达，多少钱被花在了什么地方</li>
-<li>花这些钱造成了什么后果，就可以用doing</li>
-</ul>
-<h3 id="我国阿尔茨海默病患者约1000万人随着人口老龄化加速预计到2050年我国患者将达4000万人">我国阿尔茨海默病患者约1000万人，随着人口老龄化加速，预计到2050年我国患者将达4000万人。</h3>
-<h3 id="there-are-about-10-million-alzheimer-patients-in-china-which-is-predicted-to-hit-40-million-in-2050-given-the-accelerated-aging-of-population">There are about 10 million Alzheimer patients in China, which is predicted to hit 40 million in 2050 given the accelerated aging of population.</h3>
-<ul>
-<li>predict和expect属于是同义替换，预计</li>
-<li>hit和reach也是</li>
-<li>随着一般译为with或者as，这里译为given是考虑到的意思</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leetcode 55 跳跃游戏]]></title>
-        <id>https://adiaosdu.github.io/post/hzT9GjMYE/</id>
-        <link href="https://adiaosdu.github.io/post/hzT9GjMYE/">
-        </link>
-        <updated>2022-03-04T10:16:48.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>题给出一个一维数组，记录当前位置能往前跳多少，最后返回结果，能否到达最后一格。</li>
-<li>属于存在型问题。因此要开一个布尔型数组，这个数组记录的是能否到达这一格。</li>
-<li>状态转移方程：对每一块石头遍历前面所有石头，有一块能跳到它，则置为1</li>
-<li>初始条件：第一块石头能跳</li>
-</ul>
-<p>'''python<br>
-def canJump(self, nums: List[int]) -&gt; bool:<br>
-dp = [True] + [False]*(len(nums)-1)<br>
-for i in range(len(nums)):<br>
-for j in range(i):<br>
-if dp[j] and j+nums[j]&gt;=i:<br>
-dp[i] = True<br>
-continue<br>
-return dp[-1]</p>
-<pre><code>
-- 贪心法：只遍历一遍数组，实时维护当前能跳的最远距离。
-
-```python
-def canJump(self, nums: List[int]) -&gt; bool:
-    f = 0
-    for i,j in enumerate(nums):
-        f = max(f,i+j)
-        if i!=len(nums)-1 and f-i==0:
-            return False
-    return True
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leetcode 300 最长递增子序列]]></title>
-        <id>https://adiaosdu.github.io/post/WOmyzGTVa/</id>
-        <link href="https://adiaosdu.github.io/post/WOmyzGTVa/">
-        </link>
-        <updated>2022-03-04T10:03:48.000Z</updated>
-        <content type="html"><![CDATA[<p>给定一个数列，长度为 N，求这个数列的最长上升（递增）子数列（LIS）的长度<br>
-注意子序列不一定是连续的</p>
-<p><img src="https://adiaosdu.github.io/post-images/1646217872725.png" alt="" loading="lazy"><br>
-遍历num,对于num[i]，找它前面比它小的每个j，找f[j]最大的一个，取f[j]+1作为最终的f[i]。为此需要额外进行一次内部的循环。<br>
-子问题是求以当前位置结尾的数列的最长递增子序列长度<br>
-这道题属于比较简单的dp。重点掌握一下&quot;每一轮取当前更大&quot;的这种处理手法</p>
-<pre><code class="language-python">def lengthOfLIS(self, nums: List[int]) -&gt; int:
-    if len(nums)&lt;2:
-        return 1
-    f = [1]*len(nums)
-    for i in range(0,len(nums)):
-        for j in range(0,i):
-            if nums[i]&gt;nums[j]: #相等不要
-                f[i] = max(f[j]+1,f[i])
-    # print(f)
-    # 最终要找的不是以最后一个元素结尾的
-    # 因此是输出数组中最大的
-    return max(f)
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leetcode 322 零钱兑换]]></title>
-        <id>https://adiaosdu.github.io/post/-XjQZM9eZ/</id>
-        <link href="https://adiaosdu.github.io/post/-XjQZM9eZ/">
-        </link>
-        <updated>2022-03-04T09:59:00.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一道经典的动态规划的题目。<br>
-有三种硬币2,5,7,每种足够多，买一本书27元如何用最少的硬币组合正好付清。</p>
-<ul>
-<li>贪心：先凑7，再凑5，再凑2.可能局部最优。例如27 = 7+7+7+2+2+2 = 7+5+5+5+5<br>
-<img src="https://adiaosdu.github.io/post-images/1646213412268.png" alt="" loading="lazy"></li>
-<li>递归解法：大量的重复计算，没有保存历史记录。开数组保存历史纪录可以解决这个问题。</li>
-<li>动态规划的四个步骤：</li>
-<li>确定状态：开一个数组，确定数组的每个元素代表什么。
-<ul>
-<li>最后一步：最优策略肯定是k枚硬币加起来。最后一枚硬币是a_k，前面的27-a_k。我们不关心前面的27-a_k是怎么得到的</li>
-<li>子问题：拼出前面的27-a_k的硬币数一定要最少。研究用多少枚硬币可以拼出27-a_k</li>
-</ul>
-</li>
-<li>转移方程：f(27) = min{f(27-2)+1, f(27-5)+1, f(27-7)+1}</li>
-<li>初始条件和边界情况：x-2,x-5,x-7小于0怎么办？什么时候停下来
-<ul>
-<li>不能拼出时，定义为正无穷(复数的情况)</li>
-<li>初始条件f(0)=0,0是有意义的</li>
-</ul>
-</li>
-<li>计算顺序，应该保证计算左边的时候，右边都已经算过了，所以应该从小到大算。</li>
-<li>没有重复计算，算法时间复杂度O(mn)</li>
-</ul>
-<pre><code class="language-python">def coin_change(coins, amount):
-  f = [float(&quot;inf&quot;)]*(amount+1) #第一个细节，数组要开大一个，第0个元素是边界情况，最后一个元素是最终情况
-                  #还要知道python里面的无穷大怎么表示
-  f[0] = 0 #第二个细节：边界条件初始化
-  for i in range(1,amount+1): #注意循环是进行amount次
-    for j in coins:
-      #第三个细节：什么时候才能用组合 
-      #确定第i个位置：看这个钱数减掉每一种硬币情况的子问题
-      #在子问题存在且不为无穷的情况下，由子问题组成原始问题
-      if i-j&gt;=0 and f[i-j]!=float(&quot;inf&quot;):
-        f[i] = min(f[i-j]+1,f[i])
-    print(f)
-  return f[amount]
-
-print(coin_change(l,A))
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向量空间]]></title>
-        <id>https://adiaosdu.github.io/post/tOKkv-KuP/</id>
-        <link href="https://adiaosdu.github.io/post/tOKkv-KuP/">
-        </link>
-        <updated>2022-03-04T08:01:17.000Z</updated>
-        <content type="html"><![CDATA[<p>向量空间必须满足一定规则：该空间对空间内向量的线性组合（相加，数乘）封闭。也就是说如果一个向量集合所组成的空间满足两种操作（数乘、相加）且通过这两种操作及他们之间的线性组合后的向量仍然在这个集合所形成的空间中。那么我们就称它为向量空间。</p>
-<h3 id="子空间subspace">子空间（subspace）</h3>
-<ul>
-<li>对于子空间，一个很好的解释属于向量空间的一部分，但是它同样满足向量空间的规则，也是一个向量空间。</li>
-<li>三维空间的子空间可以有以下几种情况
-<ul>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>R</mi><mn>3</mn></msup></mrow><annotation encoding="application/x-tex">R^3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>本身</li>
-<li>任何一个过原点的平面</li>
-<li>任何一条过原点的直线</li>
-<li>零向量</li>
-</ul>
-</li>
-<li>向量空间中一定要包含零向量，即原点</li>
-</ul>
-<h3 id="列空间-零空间">列空间、零空间</h3>
-<ul>
-<li>列空间是由一个矩阵的列向量所构造的子空间</li>
-<li>矩阵A的零空间为Ax = 0的所有的解所构成的向量空间，记为N(A)。也就是说A的零空间就是所有满足方程等式的x组成的向量空间。</li>
-<li>对于m*n的矩阵来说，列空间是m维空间的子空间，零空间是n维空间的子空间，列空间的关键在于列向量的维数，零空间的的关键在于列空间的个数。</li>
-<li>根据零空间的定义，可以推出其对加法封闭，对数乘封闭</li>
-</ul>
-<h3 id="基">基</h3>
-<ul>
-<li>一组线性无关的向量，生成某个空间。这组向量称为该空间的基</li>
-<li>n维空间的基：n个线性无关的n维向量</li>
-</ul>
-<figure data-type="image" tabindex="1"><img src="https://adiaosdu.github.io/post-images/1646382561298.png" alt="" loading="lazy"></figure>
-<h3 id="正交">正交</h3>
-<ul>
-<li>向量正交：两个向量内积为0</li>
-<li>空间正交：假如空间 S 与空间 T 正交，则意味着S中的每一个向量都与T中的每一个向量正交</li>
-<li>比如说两条垂直的直线，或者一条直线垂直于另一个平面</li>
-<li>一个平面上的子空间有三种：整个平面 D、过原点且垂直于该平面的直线 L、原点 O</li>
-</ul>
-<h3 id="四个子空间及其关系">四个子空间及其关系</h3>
-<ul>
-<li>行空间是一个矩阵各行生成的空间</li>
-<li>行空间与零空间正交</li>
-<li>零空间是Ax=0的解，即 x 若在零空间，则 Ax 为零向量</li>
-<li>对于行空间，由于A的任一行向量与x内积都为0，则零空间中的向量x同A中的所有行向量正交</li>
-<li>同理，列空间与左零空间是正交的</li>
-<li>我们把行空间与零空间称为n维空间里的正交补，即零空间包含了所有与行空间正交的向量，而不是部分</li>
-<li>同理列空间与左零空间为m维空间里的正交补，即左零空间包含了所有与列空间正交的向量。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矩阵]]></title>
-        <id>https://adiaosdu.github.io/post/yV26s1cil/</id>
-        <link href="https://adiaosdu.github.io/post/yV26s1cil/">
-        </link>
-        <updated>2022-03-03T10:06:20.000Z</updated>
-        <content type="html"><![CDATA[<p>本文整理了一些基本的关于矩阵概念性的问题，可供面试参考</p>
-<h3 id="lu分解">LU分解</h3>
-<ul>
-<li>Gauss消元法都是对矩阵A使用行变换得到上三角矩阵U，利用消元矩阵E左乘矩阵A可以达到同样的效果。</li>
-<li>回想高斯消元法的过程，总是用上面的行消下面的。所以E是一个下三角矩阵（右上角为0）</li>
-<li>EA=U，其中E是可逆的。令<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>L</mi><mo>=</mo><msup><mi>E</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><annotation encoding="application/x-tex">L=E^{-1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">L</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span>，则L也是下三角矩阵。A=LU</li>
-</ul>
-<h3 id="置换阵">置换阵</h3>
-<ul>
-<li>置换矩阵的每一行和每一列都恰好有一个 1，其余的元素都是 0</li>
-<li>n 阶矩阵有 n! 个置换矩阵，就是将单位矩阵 I 各行重新排列后所有可能的情况数量</li>
-<li>置换矩阵乘以一个矩阵，可以完成矩阵的行交换。对于更普适的LU分解式，需要考虑行交换的情况，即：PA=LU。先用行交换使得主元位置不为0，行顺序正确。其后再用LU分解</li>
-</ul>
-<h3 id="特殊矩阵ata">特殊矩阵<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>A</mi><mi>T</mi></msup><mi>A</mi></mrow><annotation encoding="application/x-tex">A^TA</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mord mathdefault">A</span></span></span></span></h3>
-<figure data-type="image" tabindex="1"><img src="https://adiaosdu.github.io/post-images/1646387694682.png" alt="" loading="lazy"></figure>
-<h3 id="矩阵的秩">矩阵的秩</h3>
-<ul>
-<li>行秩：矩阵的行空间的维数</li>
-<li>矩阵的行秩等于列秩，统称为秩</li>
-<li>从线性方程组的角度，主元的个数称为矩阵的秩
-<ul>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>r</mi><mo>(</mo><mi>A</mi><mo>+</mo><mi>B</mi><mo>)</mo><mo>≤</mo><mi>r</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>+</mo><mi>r</mi><mo>(</mo><mi>B</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">r(A+B) \leq r(A)+r(B)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span></span></span></span></li>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>r</mi><mo>(</mo><mi>A</mi><mi>B</mi><mo>)</mo><mo>≤</mo><mi>m</mi><mi>i</mi><mi>n</mi><mo>{</mo><mi>r</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo separator="true">,</mo><mi>r</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>}</mo></mrow><annotation encoding="application/x-tex">r(AB) \leq min\{r(A),r(B)\}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mopen">{</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault">A</span><span class="mclose">)</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mclose">)</span><span class="mclose">}</span></span></span></span></li>
-<li>一个矩阵与可逆矩阵相乘后，秩不会改变</li>
-<li>若AB=O，则r(A)+r(B) \leq n，即B的列向量的秩不大于Ax=0的基础解系的个数</li>
-<li>相似矩阵线性变换秩相等</li>
-</ul>
-</li>
-</ul>
-<h3 id="可逆矩阵基本定理">可逆矩阵基本定理</h3>
-<p>一个方阵是可逆阵，和以下几条是等价的<br>
-- 行列式非0<br>
-- 无0特征值<br>
-- 满秩<br>
-- 各行(列)线性无关<br>
-- 能表示成一系列初等矩阵乘积<br>
-- 等价于单位阵</p>
-<h3 id="伴随矩阵">伴随矩阵</h3>
-<pre><code>- 定义：一个由代数余子式组成的矩阵，其中代数余子式的位置和其对应的元素的位置关于主对角线对称
-- 特例：二阶矩阵求伴随矩阵：主对角交换，副对角变号不交换
-- 最重要的公式：$AA^* = |A|E$
-- 伴随矩阵的秩
-    - n，如果原矩阵满秩
-    - 1，如果原矩阵秩为n-1
-    - 0，如果原矩阵秩小于n-1, 此时伴随矩阵为零矩阵
-</code></pre>
-<h3 id="初等矩阵">初等矩阵</h3>
-<pre><code>- 初等变换、等价
-- 左乘初等矩阵对行变换，右乘初等矩阵对列变换
-- 初等矩阵的逆
-</code></pre>
-<h3 id="正交矩阵">正交矩阵</h3>
-<ul>
-<li>满足以下性质
-<ul>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>A</mi><mi>T</mi></msup><mo>=</mo><msup><mi>A</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><annotation encoding="application/x-tex">A^T = A^{-1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></li>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><msup><mi>A</mi><mi>T</mi></msup><mo>=</mo><mi>E</mi></mrow><annotation encoding="application/x-tex">AA^T=E</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8413309999999999em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8413309999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">T</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span></span></span></span></li>
-<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">∣</mi><mi>A</mi><msup><mi mathvariant="normal">∣</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">|A|^2=1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord mathdefault">A</span><span class="mord"><span class="mord">∣</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span></li>
-</ul>
-</li>
-<li>欧几里得空间：将现实生活中的二维、三维空间推广到更高维。我们首先引入了欧氏空间中的内积，根据内积，可以定义距离、夹角等。</li>
-</ul>
-<h3 id="线性映射">线性映射</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线性方程组的解]]></title>
-        <id>https://adiaosdu.github.io/post/b_CZYNt6C/</id>
-        <link href="https://adiaosdu.github.io/post/b_CZYNt6C/">
-        </link>
-        <updated>2022-03-03T10:03:20.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="向量的组合运算">向量的组合运算</h3>
-<ul>
-<li>线性组合：n个向量的线性组合就是这n个向量各自乘上一定的系数再求和。</li>
-<li>线性表出：一组向量的线性组合等于一个向量。看一个向量能否由一组向量线性表出，本质上还是看线性方程组的解的情况。</li>
-</ul>
-<h3 id="向量组">向量组</h3>
-<ul>
-<li>n个向量线性相关与线性无关：看这n个向量线性组合得到零向量的系数。若只有零系数则线性无关，否则线性相关。</li>
-<li>向量空间的角度：如果 A 各列向量构成的向量组是线性无关的，那么矩阵 A 的零空间中只有零向量。否则，那么矩阵 A 零空间中除零向量之外还一定有其他向量。</li>
-<li>从秩的角度看：线性无关对应向量组构成的矩阵，秩为 n，此时没有自由变量，零空间中只有零向量存在。线性相关对应向量组构成的矩阵，秩小于 n，有 n-r 个自由变量，零空间 中有很多向量。</li>
-</ul>
-<h3 id="齐次线性方程组ax0的解讨论">齐次线性方程组Ax=0的解讨论</h3>
-<ul>
-<li>求解方法：高斯消元法找到自由变量，给自由变量赋值得到一组特解</li>
-<li>n个自由变量需要进行n次赋值，得到n组特解</li>
-<li>齐次线性方程组的通解是这n组特解的线性组合，该线性组合可以覆盖到整个零空间</li>
-</ul>
-<h3 id="mn矩阵a的秩与axb解的关系">m*n矩阵A的秩与Ax=b解的关系</h3>
-<ul>
-<li>Ax相当于对A的列向量进行线性组合，即研究A的列空间
-<ul>
-<li>A列满秩，有冗余的方程：从列空间的角度，m&gt;n，n个m维向量无法铺满整个m维空间，具体能铺多少要看它们极大无关组的维度。若有解则唯一，此时b在A的列空间中；否则无解</li>
-<li>A行满秩，有自由变量：有无穷多解</li>
-<li>A为满秩方阵：有唯一解</li>
-<li>A不满秩：无解（方程组本身存在矛盾）或有无穷多解</li>
-</ul>
-</li>
-<li><img src="https://adiaosdu.github.io/post-images/1646379562623.png" alt="" loading="lazy"></li>
-<li>Ax=b的解集不一定构成向量空间。因此非齐次线性方程组的两个特解线性组合，得到的不一定是解</li>
-</ul>
-<h3 id=""></h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行列式]]></title>
-        <id>https://adiaosdu.github.io/post/ZFmY0G3tN/</id>
-        <link href="https://adiaosdu.github.io/post/ZFmY0G3tN/">
-        </link>
-        <updated>2022-03-03T10:01:27.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="n元排列">n元排列</h3>
-<h3 id="行列式的定义">行列式的定义</h3>
-<h3 id="克莱姆法则">克莱姆法则</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线性代数栏目说明]]></title>
-        <id>https://adiaosdu.github.io/post/hFhtUg9WX/</id>
-        <link href="https://adiaosdu.github.io/post/hFhtUg9WX/">
-        </link>
-        <updated>2022-03-03T09:23:19.000Z</updated>
-        <content type="html"><![CDATA[<p>不得不承认，尽管自己选择了一个极度需要数学知识的专业，但是自己并不是一个非常擅长数学的人。在第一遍学习数学基础的时候，很多知识都没学懂。正式开始学应该是考研备考的一年，尽管说大部分概念弄明白了，但是学得还不够透彻。</p>
-<p>相对来说，线性代数应该是自己考研期间学得比较好的一门课程了。同样毫无疑问，这门课程也是非常重要的。现在开辟这个栏目并不是想把考研线性代数中的各种概念整理一遍，而是想从线性变换、线性空间等角度对线性代数产生新的理解。这些内容超出了考研的范畴，但或许有助于理解得更加深刻。</p>
-<p>考研线性代数的复习大概是在去年的这个时候开始的。选择性听了清华大学马辉和徐帆老师的慕课。后来才知道，课程的教材和架构来自MIT的线性代数课程。在整理博客内容时参照了自己复习时的笔记和知乎答主August的专栏笔记。本栏目的博文内容以文字为主，重点想要表达自己对相关概念的理解。</p>
 ]]></content>
     </entry>
 </feed>
